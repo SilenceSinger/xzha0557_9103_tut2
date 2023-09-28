@@ -3,6 +3,7 @@
 # Quiz 8
 
 ## Part 1: Imaging Technique
+*[Italic Text](https://www.youtube.com/watch?v=nPCD7OciF7A)* 
 
 ### “The Scream” can be divided into plenty of abstract and complex wave lines filling with different colours, this principle provides creative space for the design.  From Image 1 to Image 2, a clear change in body movement of the “ghost” and the wave line in the background could enhance the funny and surprising effects in the image. 
 
