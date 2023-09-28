@@ -9,7 +9,7 @@
 
 ### Compared with the original drawing, the landscape layout opens up more three-dimensional and detailed expression content for the design, and while focusing on abstract line depiction, it also achieves a more realistic feeling. 
 
-![Image 1 Dynamic Ghost](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/25cbc4c2d15ae139d04b33573b44e9f2f71bc307/readmeImages/Image%201%20Dynamic%20Ghost.jpg))
+![Image 1 Dynamic Ghost](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/25cbc4c2d15ae139d04b33573b44e9f2f71bc307/readmeImages/Image%201%20Dynamic%20Ghost.jpg)
 
 ![Image 2 Dynamic Ghost](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/Image%202%20Dynamic%20Ghost.png)
 
