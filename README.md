@@ -22,5 +22,8 @@
 
 ### Based on the “sin wave” example, this technique is more flexible and allow to explore complex dynamic factors which mainly change in calcWave function. From the railing behind the “ghost” to the curvature of the “ghost”, this coding technique can be a great help in project progress and innovation.
 
-![Image 3 Additive Wave 1](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%201.png)
-![Image 4 Additive Wave 2](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%202.png)
+![Image Coding effect presentation](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/2892757abc2e531a1f3591c3f043d1e6c90e5af3/readmeImages/Wave%20presentation.png)
+*[Image 3 Coding of Wave presentation]* 
+
+![Image 4 Additive Wave 1](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%201.png)
+![Image 5 Additive Wave 2](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%202.png)
