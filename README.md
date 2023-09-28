@@ -9,10 +9,8 @@
 
 ### Compared with the original drawing, the landscape layout opens up more three-dimensional and detailed expression content for the design, and while focusing on abstract line depiction, it also achieves a more realistic feeling. 
 
-![Image 1 Dynamic Ghost](readmeImages/Image 1 Dynamic Ghost.jpg)
+![Image 1 Dynamic Ghost]([readmeImages/Image 1 Dynamic Ghost.jpg](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/25cbc4c2d15ae139d04b33573b44e9f2f71bc307/readmeImages/Image%201%20Dynamic%20Ghost.jpg))
 ![Image 2 Dynamic Ghost](readmeImages/Image 2 Dynamic Ghost.png)
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
-Links to an external site.)
 ## Part 2: Coding Technique
 
 ### The coding technique chosen for two combined waves are especially useful for the project, as the wave lines should be illustrated and also be added dynamic elements ideally. With the function of “setup” “draw” “calcWave” “renderWave”, the height and quantity of waves can be customised specifically for the design. Based on the “sin wave” example, this technique is more flexible and allow to explore complex dynamic factors which mainly change in calcWave function. From the railing behind the “ghost” to the curvature of the “ghost”, this coding technique can be a great help in project progress and innovation.
