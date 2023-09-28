@@ -27,3 +27,4 @@
 
 ![Image 4 Additive Wave 1](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%201.png)
 ![Image 5 Additive Wave 2](https://github.com/SilenceSinger/xzha0557_9103_tut2/blob/dd1563703271c3071be598699852fc0a3631aaec/readmeImages/additive%20wave%202.png)
+*[Image 4-5 Code - Additive Wave]* 
